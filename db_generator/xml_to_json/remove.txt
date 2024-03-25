@@ -1,0 +1,67 @@
+      'cas-number': '138068-37-8',
+      'unii': 'Y43GF64R34',
+
+
+
+   'general_references': {
+      'articles': [
+        {
+          'ref-id': 'A1',
+          'pubmed-id': '16244762',
+          'citation': 'Smythe MA, Stephens JL, Koerber JM, Mattson JC: A comparison of lepirudin and argatroban outcomes. Clin Appl Thromb Hemost. 2005 Oct;11(4):371-4.'
+        },
+        {
+          'ref-id': 'A2',
+          'pubmed-id': '16690967',
+          'citation': 'Tardy B, Lecompte T, Boelhen F, Tardy-Poncet B, Elalamy I, Morange P, Gruel Y, Wolf M, Francois D, Racadot E, Camarasa P, Blouch MT, Nguyen F, Doubine S, Dutrillaux F, Alhenc-Gelas M, Martin-Toutain I, Bauters A, Ffrench P, de Maistre E, Grunebaum L, Mouton C, Huisse MG, Gouault-Heilmann M, Lucke V: Predictive factors for thrombosis and major bleeding in an observational study in 181 patients with heparin-induced thrombocytopenia treated with lepirudin. Blood. 2006 Sep 1;108(5):1492-6. Epub 2006 May 11.'
+        },
+        {
+          'ref-id': 'A3',
+          'pubmed-id': '16241940',
+          'citation': 'Lubenow N, Eichler P, Lietz T, Greinacher A: Lepirudin in patients with heparin-induced thrombocytopenia - results of the third prospective study (HAT-3) and a combined analysis of HAT-1, HAT-2, and HAT-3. J Thromb Haemost. 2005 Nov;3(11):2428-36.'
+        },
+        {
+          'ref-id': 'A246609',
+          'pubmed-id': '19707378',
+          'citation': 'Petros S: Lepirudin in the management of patients with heparin-induced thrombocytopenia. Biologics. 2008 Sep;2(3):481-90. doi: 10.2147/btt.s3415.'
+        },
+        {
+          'ref-id': 'A246624',
+          'pubmed-id': '25294122',
+          'citation': 'Chapin JC, Hajjar KA: Fibrinolysis and the control of blood coagulation. Blood Rev. 2015 Jan;29(1):17-24. doi: 10.1016/j.blre.2014.09.003. Epub 2014 Sep 16.'
+        }
+      ],
+      'textbooks': [
+        
+      ],
+      'links': [
+        {
+          'ref-id': 'L48',
+          'title': 'Google books',
+          'url': 'http://books.google.com/books?id=iadLoXoQkWEC&pg=PA440'
+        },
+        {
+          'ref-id': 'L41539',
+          'title': 'Health Canada Approved Drug Products: Refludan (lepirudin) lyophilized powder for intravenous injection',
+          'url': 'https://pdf.hres.ca/dpd_pm/00004023.PDF'
+        },
+        {
+          'ref-id': 'L41544',
+          'title': 'FDA Clinical Pharmacology and Biopharmaceutics Review: Refludan (lepirudin) lyophilized powder for intravenous injection',
+          'url': 'https://www.accessdata.fda.gov/drugsatfda_docs/nda/98/20807_Refludan_biopharmr.pdf'
+        },
+        {
+          'ref-id': 'L41569',
+          'title': 'EMA Summary of Product Characteristics: Refludan (lepirudin) powder for intravenous injection or infusion',
+          'url': 'https://www.ema.europa.eu/en/documents/product-information/refludan-epar-product-information_en.pdf'
+        },
+        {
+          'ref-id': 'L41574',
+          'title': 'Bayer HealthCare: Discontinuation of Refludan [lepirudin (rDNA) for injection]',
+          'url': 'https://www.hrsa.gov/sites/default/files/opa/programrequirements/manufacturerletters/2012/refludan05312012.pdf'
+        }
+      ],
+      'attachments': [
+        
+      ]
+    }
