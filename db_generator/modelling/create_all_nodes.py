@@ -34,16 +34,16 @@ def create_all_nodes_and_relationships_for_drug(all_data):
 
 
 # Load data from a JSON file
-def load_data_from_json(filename):
-    with open(filename, 'r') as file:
-        data = json.load(file)
-    return data
+# def load_data_from_json(filename):
+#     with open(filename, 'r') as file:
+#         data = json.load(file)
+#     return data
 
-# Specify the path to your JSON file
-json_file_path = 'data/drug_dict.json'
+# # Specify the path to your JSON file
+# json_file_path = 'data/sample_drug_dict.json'
 
-# Load the data
-all_data = load_data_from_json(json_file_path)
+# # Load the data
+# all_data = load_data_from_json(json_file_path)
 
-# Create all nodes and relationships for each drug
-create_all_nodes_and_relationships_for_drug(all_data)
+# # Create all nodes and relationships for each drug
+# create_all_nodes_and_relationships_for_drug(all_data)

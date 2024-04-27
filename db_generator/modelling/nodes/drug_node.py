@@ -102,10 +102,7 @@ def create_drug_and_related_nodes(drugbank_id, drug_properties):
         'volume_of_distribution': drug_properties.get('volume_of_distribution', ''),
         'clearance': drug_properties.get('clearance', ''),
             # Generate embeddings
-        'drug_embed_text': preprocess_drug_text(drug_properties.get('name', '') + 
-                                                drug_properties.get('drug_type', '') + 
-                                                drug_properties.get('state', '') +
-                                                drug_properties.get('description', '')),
+        'drug_embed_text': preprocess_drug_text(drug_properties.get('description', '')),
         'indication_embed_text': preprocess_drug_text(drug_properties.get('indication', '')),
         'pd_embed_text': preprocess_drug_text(drug_properties.get('pharmacodynamics', '')),
         'moa_embed_text': preprocess_drug_text(drug_properties.get('mechanism_of_action', '')),

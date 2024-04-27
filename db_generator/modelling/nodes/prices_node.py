@@ -75,7 +75,7 @@ def create_price_nodes(drug_id, prices):
     # Prepare the data for the query
     preprocessed_prices = [{
         'description': price['description'],
-        'embed_text': preprocess_drug_text(price['description'] + price["cost"]["value"] + price["cost"]["currency"] +  price["unit"] ),  # Preprocess the description for embedding
+        'embed_text': preprocess_drug_text(price['description'] + ' ' +price["cost"]["value"] +' '+ price["cost"]["currency"] + ' ' + price["unit"] ),  # Preprocess the description for embedding
         'cost': price['cost'],
         'unit': price['unit']
     } for price in prices]

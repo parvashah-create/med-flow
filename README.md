@@ -1,2 +1,2 @@
 # med-flow
-`python -m db_parser.modelling.substance_info_nodes `
+`python -m db_generator.modelling.create_all_nodes `
